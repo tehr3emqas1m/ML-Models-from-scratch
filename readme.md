@@ -1,1 +1,1 @@
-This repository contains Python impelementation of some of the commonly used ML models e.g., Naivebayes classifer, Decision Tress, SVM etc from scratch.
+This repository contains Python impelementation of some of the commonly used ML models e.g., Naive Bayes classifer, Decision Tress and SVM etc., from scratch.
